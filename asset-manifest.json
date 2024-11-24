@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cal-nar/static/css/main.85fc5044.css",
-    "main.js": "/cal-nar/static/js/main.843d479d.js",
+    "main.css": "/cal-nar/static/css/main.ae8390d8.css",
+    "main.js": "/cal-nar/static/js/main.63fadb54.js",
     "index.html": "/cal-nar/index.html",
-    "main.85fc5044.css.map": "/cal-nar/static/css/main.85fc5044.css.map",
-    "main.843d479d.js.map": "/cal-nar/static/js/main.843d479d.js.map"
+    "main.ae8390d8.css.map": "/cal-nar/static/css/main.ae8390d8.css.map",
+    "main.63fadb54.js.map": "/cal-nar/static/js/main.63fadb54.js.map"
   },
   "entrypoints": [
-    "static/css/main.85fc5044.css",
-    "static/js/main.843d479d.js"
+    "static/css/main.ae8390d8.css",
+    "static/js/main.63fadb54.js"
   ]
 }
