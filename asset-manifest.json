@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/negin-khademi.github.io/cal-nar/static/css/main.85fc5044.css",
-    "main.js": "/negin-khademi.github.io/cal-nar/static/js/main.843d479d.js",
-    "index.html": "/negin-khademi.github.io/cal-nar/index.html",
-    "main.85fc5044.css.map": "/negin-khademi.github.io/cal-nar/static/css/main.85fc5044.css.map",
-    "main.843d479d.js.map": "/negin-khademi.github.io/cal-nar/static/js/main.843d479d.js.map"
+    "main.css": "/cal-nar/static/css/main.85fc5044.css",
+    "main.js": "/cal-nar/static/js/main.843d479d.js",
+    "index.html": "/cal-nar/index.html",
+    "main.85fc5044.css.map": "/cal-nar/static/css/main.85fc5044.css.map",
+    "main.843d479d.js.map": "/cal-nar/static/js/main.843d479d.js.map"
   },
   "entrypoints": [
     "static/css/main.85fc5044.css",
